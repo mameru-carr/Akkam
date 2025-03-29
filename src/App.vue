@@ -14,6 +14,4 @@ import { Button } from '@/components/ui/button';
 </template>
 
 <style lang="sass">
-body
-  background-color: #dde5b6
 </style>
